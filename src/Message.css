@@ -1,0 +1,21 @@
+.message {
+    padding: 10px;
+    margin: 10px;
+    width: fit-content;
+    max-width: 400px;
+    text-align:  left;
+}
+
+.message__user {
+    margin-left: auto;
+   
+
+    /* text-align: left !important; */
+}
+
+.message__userCard {
+    background-color: #c08feb !important;
+}
+.message__questCard {
+    background-color: #e9e9eb !important;
+}
